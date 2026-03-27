@@ -1,4 +1,4 @@
-# Grayscale Processor Timing Optimization (Static Timing Analysis)
+# Grayscale Processor Timing Optimization (STA)
 
 This project demonstrates timing analysis and optimization of a grayscale image processor using an ASIC RTL-to-GDS flow (OpenLane) and post-layout static timing analysis (OpenSTA).
 
