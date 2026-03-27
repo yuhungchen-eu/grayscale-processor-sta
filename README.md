@@ -54,9 +54,9 @@ The improvement comes from reducing logic depth per stage, not from changing fun
 
 ## Tools
 
-- OpenSTA  
-- Sky130 PDK  
+- OpenLane (RTL-to-GDS flow with integrated OpenSTA timing analysis)  
 - Icarus Verilog / GTKWave  
+- Sky130 PDK  
 
 ## Notes
 
