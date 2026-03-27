@@ -1,4 +1,4 @@
-# Grayscale Processor Timing Optimization (STA)
+# Grayscale Processor Timing Optimization
 
 This project analyzes and resolves timing violations in a grayscale image processor using post-layout static timing analysis (STA). By introducing pipelining, the design achieves timing closure at 200 MHz under RC-extracted conditions.
 
